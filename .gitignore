@@ -1,5 +1,5 @@
-**/day1_tasks_files
-.py_caches
+*/.py_caches
+*/venv
 .pdf
 .html
 .css
