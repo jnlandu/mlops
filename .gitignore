@@ -1,7 +1,12 @@
-**/day1_tasks_files
-.py_caches
-.pdf
-.html
-.css
-.woff
-.js
+#  Folders
+day1_tasks_files/
+venv/
+
+#  Files
+*.py_caches
+*.pdf
+*.html
+*.css
+*.woff
+*.js
+
